@@ -1,6 +1,5 @@
 
-scapy
 colorama
-rich
 pyfiglet
+rich
 tabulate
