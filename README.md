@@ -135,22 +135,7 @@ Herhangi bir sorunla karşılaşırsanız, lütfen [GitHub Issues](https://githu
 
 ---
 
-### 4. GitHub'da Projeyi Yüklemek
 
-Projenizi GitHub'a yükledikten sonra, yukarıdaki içeriği `README.md` dosyanıza ekleyebilirsiniz. Bu şekilde, kullanıcılar projenizi daha rahat kullanabilir ve tüm komutlar, parametreler hakkında bilgi sahibi olabilirler.
-
-GitHub’a yükleme işlemini gerçekleştirmek için:
-
-1. **Projenizi GitHub'a Yükleyin:**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git remote add origin <your-repository-url>
-   git push -u origin master
-   ```
-
----
 
 
 
