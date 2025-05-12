@@ -1,5 +1,6 @@
 
+scapy
 colorama
-pyfiglet
 rich
+pyfiglet
 tabulate
